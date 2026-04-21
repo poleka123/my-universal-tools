@@ -1,14 +1,14 @@
 # my-universal-tools
 个人通用工具库 | 自用小脚本 + 收集工具 + 项目通用工具类
-my-universal-tools/  # 仓库根目录
-├── README.md           # 仓库总说明书（必须有）
-├── 01-my-scripts/      # 自己写的小工具（批量改名、密码生成等）
-├── 02-collected-tools/ # 网上收集的优质工具（标注来源）
-├── 03-project-utils/   # 🔥 项目通用工具类（开发复用核心）
-│   ├── python/         # Python通用工具（文件/时间/字符串/网络）
-│   ├── java/           # Java通用工具（可选）
-│   └── frontend/       # 前端通用工具（JS/TS，可选）
-└── .gitignore          # 自动生成，无需修改
+my-universal-tools/  # 仓库根目录 \
+├── README.md           # 仓库总说明书（必须有）\
+├── 01-my-scripts/      # 自己写的小工具（批量改名、密码生成等）\
+├── 02-collected-tools/ # 网上收集的优质工具（标注来源）\
+├── 03-project-utils/   # 🔥 项目通用工具类（开发复用核心）\
+│   ├── python/         # Python通用工具（文件/时间/字符串/网络）\
+│   ├── java/           # Java通用工具（可选）\
+│   └── frontend/       # 前端通用工具（JS/TS，可选）\
+└── .gitignore          # 自动生成，无需修改\
 # 个人全能工具库
 ✅ 自用小脚本 | ✅ 收集优质工具 | ✅ 项目通用工具类
 一站式管理所有复用代码，随取随用，持续更新
